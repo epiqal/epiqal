@@ -5,7 +5,9 @@ Hey hey, **epiqal**!
 
 A guy who like to do a bit much things with a little time that he has.
 
-My repositories are too experimental, so all are made private, for now.
+Still trying to figure out GitHub, what to use it for, still deciding to use GitHub or not.
+
+My repositories (not a lot though) are too experimental, so all are made private, for now.
 
 ##### Um... I don't now what else to say.
 
