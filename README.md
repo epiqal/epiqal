@@ -1,8 +1,13 @@
-Hey hey, 
+Hey hey, **epiqal**!
+> 🡡 My greetings to you.
 
 # epiqal
 
-## Hi there 👋
+A guy who like to do a bit much things with a little time that he has.
+
+My repositories are too experimental, so all are made private, for now.
+
+##### Um... I don't now what else to say.
 
 <!--
 **epiqal/epiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
