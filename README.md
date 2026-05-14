@@ -1,5 +1,5 @@
 Hey hey, **epiqal**!
-> 🡡 My greetings to you.
+> 🡡 Greetings to you.
 
 # epiqal
 
